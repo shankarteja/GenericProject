@@ -6,6 +6,9 @@ public class TestService {
 		Service se =new Service();
 		se.print("hello rocky bhai");
 		se.print(1234);
+		se.print(1234.015d);
+		se.print(12.064f);
+		se.print('T');
 		
 		
 	}
