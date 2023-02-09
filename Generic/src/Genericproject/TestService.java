@@ -9,6 +9,10 @@ public class TestService {
 		se.print(1234.015d);
 		se.print(12.064f);
 		se.print('T');
+		se.print('S');
+		se.print('R');
+		se.print('K');
+		se.print("salam rocky bhai ");
 		
 		
 	}
